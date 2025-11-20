@@ -70,7 +70,7 @@ preloaded with the native EVM token.
 ## Multinode Local Devnet
 
 Please refer to the [Kurtosis README](https://github.com/berachain/beacon-kit/blob/main/kurtosis/README.md) for more information on how to run a multinode local devnet.
-
+  
 ## Important Commands and Options
 
 `beacond help` lists available commands. Some commands have sub-commands.
